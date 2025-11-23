@@ -1,0 +1,26 @@
+{
+    "full_name": "Paul Munn",
+    "name": "Paul",
+    "current_role": "Research Associate",
+    "location": "Cornell University",
+    "email": "prm88@cornell.edu",
+    "github": "https://github.com/paulmunn",
+    "linkedin": "https://www.linkedin.com/in/paul-munn-26556110/",
+    "google_scholar": "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=5&gmla=AKzYXQ1x_F6FElaaVXBgPE4dPgzKaHvT0HLwblhS9ZR1THdN4nX-Ap03bTBgAg2S7yx_PSgcwgFPEBO1aZR1-g&user=eE89UdUAAAAJ",
+    "specialties": [
+      "Computational biology",
+      "Analysis and QC of genomics data",
+      "Machine learning",
+      "AI engineering",
+      "Python programming"
+    ],
+    "years_experience": 12,
+    "education": [
+      {
+        "degree": "Compuational Biology, PhD",
+        "institution": "Cornell University",
+        "year": "2020"
+      }
+    ]
+  }
+  
