@@ -6,7 +6,7 @@ export default function Home() {
       <div className="container mx-auto px-4 py-8">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl font-bold text-center text-gray-800 mb-2">
-            Paul Munn&apos;s AI Twin
+            Paul Munn&apos;s Digital Twin
           </h1>
           <p className="text-center text-gray-600 mb-8">
             Think of me as an interactive CV for Paul.
