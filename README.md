@@ -1,6 +1,6 @@
-# My AI Digital Twin – Paul Munn
+# AI Digital Twin
 
-My AI Digital Twin is a conversational AI that represents me, **Paul Munn**, and can interact with visitors on my behalf. It acts as an interactive CV, answering questions about my background, skills, projects, and experience in a natural, chat-based format.
+My AI Digital Twin is a conversational AI that represents me, **Paul**, and can interact with visitors on my behalf. It acts as an interactive CV, answering questions about my background, skills, projects, and experience in a natural, chat-based format.
 
 ---
 
